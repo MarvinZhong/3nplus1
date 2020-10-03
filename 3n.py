@@ -1,5 +1,3 @@
-#學號: 107213067
-#姓名: 鍾明智
 def cycleLength(seed): #def cycleLength(seed)
     len = 1 #set len = 1
     while seed != 1: #while seed!=1
